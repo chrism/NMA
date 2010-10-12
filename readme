@@ -1,0 +1,9 @@
+New Music App
+=============
+
+Migrating key working files and assets to .git to allow remote access and as backup.
+
+So far included:
+
+- preview player working files (including AI, PSD)
+40px version, scale down to 30px image size in PS and export for smaller variation
